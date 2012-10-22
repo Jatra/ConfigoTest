@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="build">0</string>
+  <string name="version">0</string>
+  <string name="build_type">ANT</string>
+  <string name="software_type">EXPERIMENTAL</string>
+  <string name="expiry">Dec 31, 3012</string>
+</resources>
